@@ -3,6 +3,13 @@ Android use TextView show Html. Support <span> and custom <fonts>
 
 由于Android不支持 font 标签的 size 所以自定义span标签来实现
 
+
+### Screenshot
+
+<p align="center">
+  <img src="https://github.com/helloHaifei/HtmlTextView/blob/master/screenshot.png?raw=true" width="300"  alt="Screenshot"/>
+</p>
+
 java code
 ``` java
     /**
